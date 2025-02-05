@@ -94,7 +94,6 @@ def stampa_fisher(valore, gl1, gl2, a):
     plt.legend()
     plt.grid()
     plt.show()
-    print(type(fig))
     salva_come(fig)
 
 
